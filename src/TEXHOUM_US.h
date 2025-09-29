@@ -1,8 +1,8 @@
 //  Библиотека для упарвления моторами постоянного тока с помощью драйвера L298N
 //  Автор библиотеки: Коркин Максим Валерьевич, Пятов Антон Витальевич
 
-#ifndef TEXHOUM_MOTOR_h
-#define TEXHOUM_MOTOR_h
+#ifndef TEXHOUM_US_h
+#define TEXHOUM_US_h
 #include <Arduino.h>
 
 class	US{
