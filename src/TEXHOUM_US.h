@@ -18,7 +18,9 @@ class	US{
 };
 
 extern US US1;
+#if defined(ARDUINO_AVR_MEGA2560) || defined(__AVR_ATmega2560__)
 extern US US2;
 extern US US3;
+#endif
 
 #endif
